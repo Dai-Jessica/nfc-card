@@ -1,0 +1,11 @@
+BEGIN:VCARD 
+VERSION:3.0  
+N:JESSICA;CHEN;;;
+FN:Jessica Chen
+ORG:OpenAI Taiwan
+TITLE:Marketing Specialist
+TEL;TYPE=CELL:+886912345678
+EMAIL:jessica@example.com
+URL:https://openai.com
+ADR;TYPE=WORK:;;Taipei City;;;Taiwan;
+END:VCARD
